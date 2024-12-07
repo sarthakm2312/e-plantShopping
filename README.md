@@ -1,1 +1,2 @@
-# coding-project-template
+# CODING PROJECT TEMPLATE
+EPlant Shopping
